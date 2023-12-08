@@ -10,13 +10,13 @@ full responsive weather aplication work with api
 
 ### pure javascript projects
 
--[link](https://github.com/moeinparvizi/random-quote)
+- [link](https://github.com/moeinparvizi/random-quote)
 a simple project with quote api and add random function on api
 
--[link](https://github.com/moeinparvizi/todo-list)
+- [link](https://github.com/moeinparvizi/todo-list)
 a todo list with save on local storage
 
--[link](https://github.com/moeinparvizi/visa-card)
+- [link](https://github.com/moeinparvizi/visa-card)
 visa card project with aniamtation & inputs checker
 
 ### css or sass prjects
